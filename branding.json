@@ -1,0 +1,13 @@
+{
+  "primaryColor": "#faf8f5",
+  "secondaryColor": "#f3e5dd",
+  "backgroundColor": "#faf8f5",
+  "textColor": "#1a1a1a",
+  "accentColor": "#2d5016",
+  "fontHeading": "Cormorant Garamond",
+  "fontBody": "IBM Plex Mono",
+  "borderRadius": "0.5rem",
+  "logoText": "BookShelf",
+  "logoImageUrl": null,
+  "tone": "trustworthy"
+}
